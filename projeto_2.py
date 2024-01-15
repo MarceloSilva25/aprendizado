@@ -1,4 +1,5 @@
-# EXERCÍCIO 2
+# EXERCÍCIO 2 : Código feito para dizer se um número é par ou ímpar.
+
 numero_1 = input("digite um número inteiro: ")
 
 if numero_1.isdigit():

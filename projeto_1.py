@@ -1,4 +1,4 @@
-#EXERCÍCIO 1 
+#EXERCÍCIO 1 : Codigo feito para testar operadores aprendidos. 
 
 nome = input("Digite seu nome: ")
 idade = input("digie sua idade: ")
